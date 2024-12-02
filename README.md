@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arushiiiiiyy
+- 👋 Hi, I’m Arushi Shukla
 - 👀 I’m interested in ...Astrophysics and Computer science
 - 🌱 I’m currently learning ...CSE
 - 💞️ I’m looking to collaborate on ...
